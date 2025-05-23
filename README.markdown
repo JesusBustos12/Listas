@@ -22,31 +22,6 @@ Como estudiante universitario, creé este proyecto para:
 - **CSS3**: Estilos para colores, tipografía, transiciones y diseño de listas.
 - **GitHub Pages**: Plataforma de alojamiento para mostrar el proyecto en línea.
 
-## Instalación
-Para explorar o personalizar el proyecto localmente, sigue estos pasos:
-
-1. **Clona el repositorio**:
-   ```bash
-   git clone https://github.com/JesusBustos12/Proyecto-7-Listas.git
-   ```
-   Reemplaza `Proyecto-7-Listas` con el nombre real de tu repositorio (por ejemplo, `<tu-usuario>.github.io` para un portafolio principal).
-
-2. **Navega al directorio del proyecto**:
-   ```bash
-   cd Proyecto-7-Listas
-   ```
-
-3. **Asegúrate de tener los archivos necesarios**:
-   - `index.html`: Contiene el título y la estructura del menú.
-   - `style.css`: Define los estilos del diseño.
-
-4. **Abre el proyecto localmente**:
-   - Abre `index.html` en un navegador para previsualizar, o usa un servidor local:
-     ```bash
-     python -m http.server 8000
-     ```
-     Visita `http://localhost:8000` en tu navegador.
-
 ## Uso
 1. **Personaliza el contenido**:
    - Edita `index.html` para cambiar el título (`Proyecto 7, Listas`), los elementos del menú (`Menu 1`, `Menu 2`, etc.), o los submenús (`Submenu 1`, `Submenu 2`, `Submenu 3`).
